@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World! I'm Neneng 👋
 
 <!--
 **nenengnursh/nenengnursh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![wallpaper](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnMxMHZ6a2ttZXpheDU3b3ZkODRwZnFkbmJveHg3ZXMwbHY3bmtwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IpSc0bp7LmGC4/giphy.gif)
